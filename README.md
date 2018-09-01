@@ -1,4 +1,4 @@
-# drupal-8-webform-work-group-in-chinese
+# drupal-8-webform-work-group-in-chinese 表单工作组
 drupal 8 webform 工作组
 
 Drupal 8 虽然很强大，但是在中文圈子里文献很少，有几个中文的网站但是也无法提供比较全面的就某个方面的完整例子，另外还有qq群，但是这些即时通讯圈有他显而易见的弱点，所以想尝试在GitHub上建立工作组，来看看是否可以避免目前Drupal中文圈里的问题，也希望有兴趣的朋友都来参加，群策群力。
