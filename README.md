@@ -18,6 +18,7 @@ Drupal 8 虽然很强大，但是在中文圈子里文献很少，有几个中�
 + [x] [04-Drupal webform 中文例子](http://www.drupalmodule.cn/project/webform/7.x) - 虽然是Drupal 7的例子，但还是会有帮助的
 + [x] [05-Drupal webform 在drupalchina.cn上的中文例子](http://drupalchina.cn) - 在这个网站上有不少例子，但比较凌乱，网站也有点问题，所以就不单列了，可以通过搜索webform关键词查到。
 + [x] [06-Drupal webform Libraries 第三方开源库](https://www.drupal.org/docs/8/modules/webform/webform-libraries) - 在webform安装上经常会被忽略，之前在qq群里就人提到“看到的界面不完整”，估计就是这个东西没有装好，webform没有安装好，在“管理界面”/“报告”/“Status report”会有提示，相当详细，一般照做就可以了。
++ [x] [07-Creating a Drupal 8 Private File System 准备工作](https://www.ostraining.com/blog/drupal/creating-drupal-8-private-file-system/) - 非常重要的准备工作，这个英文说明非常好懂，可以马上让报告里的出错信息消失！
 
 ## Drupal 资源目录
 
