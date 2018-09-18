@@ -25,4 +25,4 @@ Drupal 8 虽然很强大，但是在中文圈子里文献很少，有几个中�
 - 在此例出Drupal8的一些资源，一般都是跟我们讨论的主题有不少关系的 
 + [x] [01-Drupal8从入门到精通](http://www.nowicode.com/bookpage/145) - 作为基本了解Drupal入口，或者作为Drupal字典
 + [x] [02-听睛空讲Drupal8主题](http://www.nowicode.com/bookpage/179) - 深入一个专题，非常细致
-
++ [x] [03-Drupal8.6新功能](https://zhuanlan.zhihu.com/p/44486531) - 迄今为止最重要的 Drupal8 发布
