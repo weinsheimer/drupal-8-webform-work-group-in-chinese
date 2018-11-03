@@ -15,7 +15,7 @@ Drupal 8 虽然很强大，但是在中文圈子里文献很少，有几个中�
 + [x] [01-Drupal webform 下载地址](https://www.drupal.org/project/webform) - 为了节省你的时间，特地列出
 + [x] [02-Drupal webform 英文cookbook](https://www.drupal.org/docs/8/modules/webform/webform-cookbook) - 比较喜欢这部菜谱，虽然还没有完全看懂
 + [x] [03-Drupal webform 英文说明书](https://www.drupal.org/docs/8/modules/webform) - 这是官网上最全面的说明
-+ [x] [04-Drupal webform 英文安装说明](https://www.ostraining.com/blog/drupal/how-to-make-a-complex-webform-in-drupal-8/) - 简单明了，好像英文不行关系也不大！###同时强烈建议把所有例子都安装了，这样比较容易看出是否安装对了，例子也可以帮助你更快掌握webform!
++ [x] [04-Drupal webform 英文安装说明](https://www.ostraining.com/blog/drupal/how-to-make-a-complex-webform-in-drupal-8/) - 简单明了，好像英文不行关系也不大！ 同时强烈建议把所有例子都安装了，这样比较容易看出是否安装对了，例子也可以帮助你更快掌握webform!
 + [x] [05-Drupal webform 中文例子](http://www.drupalmodule.cn/project/webform/7.x) - 虽然是Drupal 7的例子，但还是会有帮助的
 + [x] [06-Drupal webform 在drupalchina.cn上的中文例子](http://drupalchina.cn) - 在这个网站上有不少例子，但比较凌乱，网站也有点问题，所以就不单列了，可以通过搜索webform关键词查到。
 + [x] [07-Drupal webform Libraries 第三方开源库](https://www.drupal.org/docs/8/modules/webform/webform-libraries) - 在webform安装上经常会被忽略，之前在qq群里就人提到“看到的界面不完整”，估计就是这个东西没有装好，webform没有安装好，在`管理界面/报告/Status report`会有提示，[相当详细](https://github.com/weinsheimer/drupal-8-webform-work-group-in-chinese/wiki)，一般照做就可以了。
