@@ -5,7 +5,7 @@ Drupal 8 虽然很强大，但是在中文圈子里文献很少，有几个中�
 
 这个工作组是以Drupal 8 Webform为中心的，所有的问题都是围绕Webform在Drupal 8中的应用, 希望我们可以在有限的篇幅里，把Webform的问题说清楚，让需求帮助的人可以很快地找到答案，尽量少的求助于人工的帮助。
 
-为了让你的提问更有效，请读这篇非常棒的 [提问前必读](https://forums.debiancn.org/t/topic/151)
+为了让你的提问更有效，请读这篇非常棒的 [提问前必读](https://forums.debiancn.org/t/topic/151)，大多提问者并没有注意到这些，往往让人想回答都无从下手。
 
 虽然接触drupal蛮久了，但也只是局限于表面使用的层次，碰到一些问题，找到drupal的解决办法，然后使用。**显然**这种做法的弊端就是，无论你怎么学，都只能是个小白。希望通过建立工作组的方法，来使自己可以的Drupal应用方面取得突破。
 
@@ -20,6 +20,10 @@ Drupal 8 虽然很强大，但是在中文圈子里文献很少，有几个中�
 + [x] [06-Drupal webform 在drupalchina.cn上的中文例子](http://drupalchina.cn) - 在这个网站上有不少例子，但比较凌乱，网站也有点问题，所以就不单列了，可以通过搜索webform关键词查到。
 + [x] [07-Drupal webform Libraries 第三方开源库](https://www.drupal.org/docs/8/modules/webform/webform-libraries) - 在webform安装上经常会被忽略，之前在qq群里就人提到“看到的界面不完整”，估计就是这个东西没有装好，webform没有安装好，在`管理界面/报告/Status report`会有提示，[相当详细](https://github.com/weinsheimer/drupal-8-webform-work-group-in-chinese/wiki)，一般照做就可以了。
 + [x] [08-Creating a Drupal 8 Private File System 准备工作](https://www.ostraining.com/blog/drupal/creating-drupal-8-private-file-system/) - 非常重要的准备工作，这个英文说明非常好懂，可以马上让报告里的出错信息消失！
+
+## 已经解决 webform 问题
+
++ [x] [1-如何在webform里加入照片？](https://github.com/weinsheimer/drupal-8-webform-work-group-in-chinese/issues/1) - 这是在webform例子里没有的
 
 ## Drupal 资源目录
 
